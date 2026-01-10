@@ -1,8 +1,7 @@
-# webgl-portfolio clone
-animated webgl portfolio using html,css,javascript (three js, locomotive js, gsap)....
+# webg-portfolio
+animated webg portfolio using html,css,javascript (three js, locomotive js)
 
-main portfolio link : https://www.[portafolio.alenadesign.com/ 
+main portfolio link : https://www.portafolio.alenadesign.com/ 
 
-clone preview:
 
 
